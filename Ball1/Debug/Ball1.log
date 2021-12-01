@@ -1,0 +1,7 @@
+﻿  Ball1View.cpp
+C:\Users\ACER\source\repos\Ball1\Ball1\Ball1View.cpp(118,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\ACER\source\repos\Ball1\Ball1\Ball1View.cpp(201,18): warning C4244: *=: преобразование "double" в "int", возможна потеря данных
+C:\Users\ACER\source\repos\Ball1\Ball1\Ball1View.cpp(202,18): warning C4244: *=: преобразование "double" в "int", возможна потеря данных
+C:\Users\ACER\source\repos\Ball1\Ball1\Ball1View.cpp(203,18): warning C4244: *=: преобразование "double" в "int", возможна потеря данных
+C:\Users\ACER\source\repos\Ball1\Ball1\Ball1View.cpp(204,18): warning C4244: *=: преобразование "double" в "int", возможна потеря данных
+  Ball1.vcxproj -> C:\Users\ACER\source\repos\Ball1\Debug\Ball1.exe
